@@ -38,5 +38,7 @@ FRONTEND:
 
 <img width="892" alt="image" src="https://user-images.githubusercontent.com/5306603/180842734-4f4f137e-e65a-4262-8400-2368fccccf18.png">
 
+EXCEL (PEOPLE.XLSX)
+<img width="706" alt="image" src="https://user-images.githubusercontent.com/5306603/180846533-7127923a-a8ac-4320-9a98-cc6917935cdc.png">
 
 
