@@ -31,7 +31,8 @@ git checkout develop
 
 SWAGGER API:
 
-<img width="1019" alt="image" src="https://user-images.githubusercontent.com/5306603/180842679-21b8133c-7575-4680-91c7-76b27eed3e49.png">
+<img width="1110" alt="image" src="https://user-images.githubusercontent.com/5306603/180844519-e1b6d40b-d8ce-4cc9-acc5-489ad7efe564.png">
+
 
 FRONTEND:
 
